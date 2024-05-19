@@ -9,3 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Python
 - Git e Github
+
+<p align="center">
+  <img alt="print vscode" src="/print_banksistem.png" width="100%">
+</p>
